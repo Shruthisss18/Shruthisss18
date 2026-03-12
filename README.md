@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech in Computer Science (AI & ML) – MLR Institute of Technology (2022–Present)
+🎓 B.Tech in Computer Science (AI & ML) – MLR Institute of Technology (2022–2026)
 
 💡 Passionate about building intelligent and impactful software solutions
 
@@ -24,7 +24,7 @@
 
 🔗 LinkedIn: (Add your LinkedIn link here)
 
-💻 GitHub: https://github.com/YOUR-USERNAME
+💻 GitHub: https://github.com/Shruthisss18
 
 ---
 
