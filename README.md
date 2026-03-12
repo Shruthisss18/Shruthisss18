@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Shruthi
 
-<!--
-**Shruthisss18/Shruthisss18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Java | Python | SQL | Web Development  
+🤖 Interested in AI & Machine Learning  
+🚀 Passionate about building real-world software solutions  
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Python
+- SQL
+- HTML & CSS
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- VS Code
+- MySQL
+- GitHub
+
+## Currently Learning
+- Machine Learning
+- Full Stack Development
