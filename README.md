@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Boddu Shruthi Sahithi</h1>
+<h1 align="center">Hi 👋, I'm Shruthi Sahithi</h1>
 
 <h3 align="center">💻 Computer Science Student | Java Developer | AI & ML Enthusiast</h3>
 
