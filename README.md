@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shruthi Sahithi</h1>
 
-<h3 align="center">💻 Computer Science Student | Java Developer | AI & ML Enthusiast</h3>
+<h3 align="center">💻 Computer Science Student | Python Developer | AI & ML Enthusiast</h3>
 
 ---
 
@@ -22,7 +22,7 @@
 
 📧 Email: sahithishruthi5@gmail.com  
 
-🔗 LinkedIn: (Add your LinkedIn link here)
+🔗 LinkedIn: www.linkedin.com/in/shruthi-sahithi
 
 💻 GitHub: https://github.com/Shruthisss18
 
